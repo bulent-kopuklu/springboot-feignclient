@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-feignclient.backend-sdk.main" target="1.8" />
+      <module name="test-feignclient.backend-sdk.test" target="1.8" />
+      <module name="test-feignclient.backend-service.main" target="1.8" />
+      <module name="test-feignclient.backend-service.test" target="1.8" />
+      <module name="test-feignclient.main" target="1.8" />
+      <module name="test-feignclient.middleware.main" target="1.8" />
+      <module name="test-feignclient.middleware.test" target="1.8" />
+      <module name="test-feignclient.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

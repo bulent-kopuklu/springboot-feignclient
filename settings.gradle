@@ -1,0 +1,5 @@
+rootProject.name = 'test-feignclient'
+include 'backend:sdk'
+include 'backend:service'
+include 'client'
+
